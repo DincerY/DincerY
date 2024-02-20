@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### Work Tools
-https://www.rabbitmq.com
-https://camo.githubusercontent.com/6e263a69a32164441eeb95d1d13caf800ca405806ccafe5ae2fe9e686999e1fa/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7261626269746d712f7261626269746d712d69636f6e2e737667
+
 
 <!--
 **DincerY/DincerY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
